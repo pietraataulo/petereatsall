@@ -9,7 +9,7 @@ Atente-se ao **tempo**! <br> <br>
 Ao acabar o jogo, você poderá reiniciar clicando na tecla **Enter** ou voltar ao menu clicando na tecla **Backspace**
 
 ## Agradecimentos
-Tive a ajuda de um grande amigo em certas partes do código, como também para desenvolver todos os sons e músicas ambiente do jogo. Você pode encontrar o perfil dele [aqui](https://github.com/smolblackcat)! Obrigada [@smolblackcat](https://github.com/username) <3
+Tive a ajuda de um grande amigo em certas partes do código, como também para desenvolver todos os sons e músicas ambiente do jogo. Você pode encontrar o perfil dele [aqui](https://github.com/smolblackcat)! Obrigada [@smolblackcat](https://github.com/smolblackcat) <3
 
 
 
