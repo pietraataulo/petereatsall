@@ -2,10 +2,14 @@
 Jogo desenvolvido com **Pygame** em **Python** para a disciplina de **Linguagem de Programação Aplicada**
 ## Como jogar?
 Você é um cachorro chamado **Peter** e precisa comer tudo o mais rápido possível! <br> <br>
--> Clique com o mouse em qualquer lugar da tela enquanto Mintaka **NÃO** estiver olhando <br> <br>
+<img src="rm-images/menu.png" width="500">
+
+&rarr; Clique com o mouse em qualquer lugar da tela enquanto Mintaka **NÃO** estiver olhando <br> <br>
+<img src="rm-images/game-attack.png" width="500"> <br> <br>
 Se você clicar enquanto Mintaka estiver cozinhando, ela ficará nervosa e o jogo acabará <br> <br>
-Atente-se ao **tempo**! <br> <br>
--> Coma tudo antes do tempo acabar! <br> <br>
+
+&rarr; Coma tudo antes do tempo acabar! <br> <br>
+<img src="rm-images/game-timeout.png" width="500"> <br> <br>
 Ao acabar o jogo, você poderá reiniciar clicando na tecla **Enter** ou voltar ao menu clicando na tecla **Backspace**
 
 ## Agradecimentos
